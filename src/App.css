@@ -5,6 +5,10 @@
   text-align: center;
 }
 
+.quote {
+  text-align: left;
+}
+
 .circle-svg {
   border-radius: 50%; /* Renders the square SVG as a circle */
   overflow: hidden; /* Ensures content within the circle is visible */
